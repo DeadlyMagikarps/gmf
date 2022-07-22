@@ -1,4 +1,4 @@
-// +build go1.6,!go1.12
+//go:build go1.6 && !go1.12
 
 // Format.
 package gmf
